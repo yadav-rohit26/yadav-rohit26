@@ -235,18 +235,7 @@ flowchart LR
 <img width="100%" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/rainbow-line.gif" />
 
 <!-- ═══════════════════════════ STATS ═══════════════════════════ -->
-<h2 align="center">📊 &nbsp;GitHub Analytics</h2>
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.shion.dev/api?username=yadav-rohit26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&icon_color=1F6FEB&include_all_commits=true&count_private=true" alt="stats"/>
-  <img height="170" src="https://github-readme-stats.shion.dev/api/top-langs/?username=yadav-rohit26&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=58A6FF&include_all_commits=true&count_private=true&layout=compact&langs_count=8" alt="top languages"/>
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=yadav-rohit26&theme=tokyonight&hide_border=true&background=0D1117&ring=58A6FF&fire=1F6FEB&currStreakLabel=58A6FF" alt="GitHub Streak"/>
-</p>
-
-<h3 align="center">📟 &nbsp;Live Metrics Dashboard</h3>
+<h2 align="center">📊 &nbsp;Live Metrics Dashboard</h2>
 
 <p align="center">
   <img width="90%" src="https://raw.githubusercontent.com/yadav-rohit26/yadav-rohit26/main/metrics.svg" alt="metrics dashboard"/>
